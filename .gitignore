@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+index.html
+src/App.css
+*.css
+*.jsx
+*.css
+*.jsx
+*.jsx
