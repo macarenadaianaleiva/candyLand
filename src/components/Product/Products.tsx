@@ -22,7 +22,7 @@ const Products = () => {
 
   return (
     <section className={styles.productosCandy}>
-      <h2 className={styles.tituloProductos}>NUESTROS DULCES DELICIOSOS</h2>
+      <h2 className={styles.tituloProductos}>NUESTROS DULCES</h2>
       <div className={styles.productosFlex}>
         {productos.map((p, i) => (
           <ProductCard key={i} {...p} />
